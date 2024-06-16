@@ -4,15 +4,14 @@
     "label": "Computer Scientist",
     "image": "",
     "email": "m.carrasco.castaneda@student.vu.nl",
-    "phone": "(912) 123-4567",
-    "url": "https://martin-carrasco.github.io/al-folio/",
+    "url": "https://martin-carrasco.github.io/",
     "summary": "I am a research assistant at the Computational Linguistics and Text Mining Lab (CLTL) at VU Amsterdam. My current research is focused in exploring extractive summarization techniques by looking at the topological properties of the embedding space of text.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Amsterdam",
       "countryCode": "Netherlands",
-      "region": ""
+      "region": "Noord Holland"
     },
     "profiles": [
       {
@@ -28,31 +27,78 @@
       {
         "network": "GitHub",
         "username": "martin-carrasco",
-        "url": "https://www.guthub.com/martin-carrasco"
+        "url": "https://www.github.com/martin-carrasco"
       }
     ]
   },
   "work": [
+    {
+      "name": "Computational Linguistics and Text Mining Lab (CLTL), VU Amsterdam",
+      "position": "Research Assistant",
+      "url": "http://www.cltl.nl",
+      "startDate": "2023-09-020",
+      "endDate": "2025-01-01",
+      "summary": "Working on extending the state of the art in extractive summarization by exploring the topological properties of the embedding space of text.",
+      "highlights": ["TDA", "NLP"]
+    },
     {
       "name": "Airnguru Inc.,",
       "position": "Backend Developer",
       "url": "https://airnguru.com",
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
-      "summary": "A",
-      "highlights": ["Python"]
-    }
+      "summary": "In charge of developing the backend of the Airnguru platform, a platform that helps airlines optimize their revenue by providing them with a tool that helps them predict the demand of their flights.",
+      "highlights": ["Python", "FastAPI", "AWS"]
+    },
+    {
+      "name": "Universidad de Ingenieria y Tecnologia",
+      "position": "Teaching Assistant",
+      "url": "https://www.utec.edu.pe/",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-15",
+      "summary": "Teaching assistant for the course Operating Systems, in charge of helping students with their assignments and exams.",
+      "highlights": ["Operating Systems", "C/C++"]}
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Computing Systems Research Group @ UTEC",
+      "location": "Lima, Peru",
+      "position": "Research Assistant",
+      "url": "https://utec.edu.pe",
+      "startDate": "2019-03-15",
+      "endDate": "2023-03-15",
+      "summary": "Focused on computer architecture and operating systems.Produced one paper related to photonics",
+      "highlights": ["Computer Architecture", "Photonics"]
+    },
+    {
+      "organization": "Competitive Programming Club (CPC) @ UTEC",
+      "location": "Lima, Peru",
+      "position": "Member",
+      "url": "https://utec.edu.pe",
+      "startDate": "2019-03-15",
+      "endDate": "2021-12-15",
+      "summary": "Daily training for ICPC competitions and IEEE Extreme Programming Competition. Participated in the ACM ICPC South America Regionals in 2019 and 2020.",
+      "highlights": []
+    },
+    {
+      "organization": "Open Day @ UTEC",
+      "location": "Lima, Peru",
+      "position": "Presenter",
+      "url": "https://utec.edu.pe",
+      "startDate": "2020-03-15",
+      "endDate": "2020-03-15",
+      "summary": "Presentation of an Arts and Technology project related to Shipibo-Conibo imagery “Convirtiendo Imágenes a Sonidos”",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE - Computer Society @ UTEC",
+      "location": "Lima, Peru",
+      "position": "Treasurer",
+      "url": "https://utec.edu.pe",
+      "startDate": "2019-03-15",
+      "endDate": "2019-12-15",
+      "summary": "Founding member. Gave workshops on data structures used by git, statistics and arranged talks / paper reviews",
+      "highlights": []
     }
   ],
   "education": [
@@ -110,27 +156,37 @@
   ],
   "publications": [
     {
-      "name": "Inter",
+      "name": "Inter-node Message Passing through Optical Reconfigurable Memory Channel",
       "publisher": "IEEE Access",
       "releaseDate": "2024-06-11",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "A"
+      "url": "https://ieeexplore.ieee.org/document/10552853",
+      "summary": "With advancements in computing interconnection and memory, new opportunities have emerged. We propose a novel inter-node architecture and protocol called Flexible Memory Units (FMU) that uses optically disaggregated memory."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Mathematics",
+      "level": "Bachelor",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Calculus",
+        "Analysis",
+        "Discrete Mathematics",
+        "Probability",
+        "Statistics"
+      ]
+    },
+    {
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Deep Learning",
+        "Natural Language Processing",
+        "Statistics"
       ]
-    }
+    },
+
   ],
   "languages": [
     {

@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Martin Carrasco
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
@@ -21,12 +19,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor's Degree in Computer Science (BSc)
+      institution: Universidad de Ingenieria y Tecnologia, Lima, Peru
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Founding member of IEEE - CS Chapter
+        - Member of Competitive Programming Club (CPC)
+        - Courses such as Advanced Data Structures, Competitive Programming, Artificial Intelligence
 
 - title: Experience
   type: time_table
