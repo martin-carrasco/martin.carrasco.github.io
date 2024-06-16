@@ -11,7 +11,6 @@ bib_file: project_1
 
 https://github.com/DL2-UvA/challenge-icml-2024
 
-
 This project is meant to showcase the effort in replication the paper of Eijkelboom et al about message passing along simplices. Our aim was to re-implement the proposed network architecture in the up and comming TopoX package suite. This suite is a newly developed set of packages that facilitate the pipeline of Topological Deep Learning, from lifting techniques to actual models of message passing.
 
 <div class="row">
@@ -73,4 +72,3 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
-

@@ -16,6 +16,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a research assistant at the Computational Linguistics and Text Mining Lab (CLTL) at VU Amsterdam.
 My current research is focused in exploring extractive summarization techniques by looking at the topological
-properties of the embedding space of text. I am also interested in **Topological Deep Learning** and the applications of **Graph Neural Networks**  
+properties of the embedding space of text. I am also interested in **Topological Deep Learning** and the applications of **Graph Neural Networks**
 
 Please reach out to collaborate 😃
