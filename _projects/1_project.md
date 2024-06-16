@@ -1,25 +1,18 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: E(n) Equivariant Message Passing Simplicial Networks
+description: MPN with equivariant properties on simplices
+img: assets/img/VR_vis.jpg
 importance: 1
 category: work
 related_publications: true
+bib_file: project_1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+https://github.com/DL2-UvA/challenge-icml-2024
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project is meant to showcase the effort in replication the paper of Eijkelboom et al about message passing along simplices. Our aim was to re-implement the proposed network architecture in the up and comming TopoX package suite. This suite is a newly developed set of packages that facilitate the pipeline of Topological Deep Learning, from lifting techniques to actual models of message passing.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,6 +25,7 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
@@ -44,7 +38,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+You can also put regular text between your rows of images, even citations {% cite eijkelboom2023en --file project_1.bib %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
@@ -79,3 +73,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+

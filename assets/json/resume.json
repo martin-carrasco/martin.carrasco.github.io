@@ -107,7 +107,7 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://www.uva.nl/",
       "area": "Artificial Intelligence",
-      "studyType": "Masters's in Science",
+      "studyType": "Master's in Science",
       "startDate": "2024-01-01",
       "endDate": "2024-01-01",
       "score": "8/10",
@@ -118,7 +118,7 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://www.vu.nl/",
       "area": "Artificial Intelligence",
-      "studyType": "Masters's in Science",
+      "studyType": "Master's in Science",
       "startDate": "2023-01-01",
       "endDate": "2025-01-01",
       "score": "8.5/10",
@@ -185,7 +185,7 @@
         "Natural Language Processing",
         "Statistics"
       ]
-    },
+    }
 
   ],
   "languages": [
