@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - martin-carrasco
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - martin-carrasco/challenge-icml-2024
+  - martin-carrasco/online-judge-solutions
+  - martin-carrasco/fourier 
+  - martin-carrasco/GNG 
