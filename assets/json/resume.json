@@ -148,12 +148,7 @@
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Topological Deep Learning",
-        "Geometric Deep Learning",
-        "Natural Laguage Processing",
-        "Topological Data Analysis",
-      ]
+      "keywords": ["Topological Deep Learning", "Geometric Deep Learning", "Natural Laguage Processing", "Topological Data Analysis"]
     }
   ],
   "references": [
